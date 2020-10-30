@@ -1,0 +1,2 @@
+export const CLIENT_ID="eaca6c3cb960b7a0f3d4";
+export const CLIENT_SECRET="3f86b536028473315196329b7cc368250df3a4cb";

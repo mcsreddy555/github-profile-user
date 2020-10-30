@@ -1,0 +1,9 @@
+<div class="card">
+    <img [src]="githubProfile.avatar_url" alt="" class="img-fluid" height="150">
+    <div class="card-body">
+        <h3 class="card-title">{{githubProfile.name}}</h3>
+        <p class="card-text">{{githubProfile.bio}}</p>
+        <a [href]="githubProfile.html_url" target="_blank" class="btn btn-success btn-sm">Profile</a>
+        
+    </div>
+</div>
